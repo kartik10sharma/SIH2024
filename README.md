@@ -36,7 +36,7 @@ A web-based application to forecast **daily, weekly, and monthly power demand** 
 ## 📁 Project Structure
 
 ```
-sih/
+
 ├── node_modules/                 # React dependencies
 ├── public/                       # Static assets for React
 ├── src/
