@@ -127,9 +127,6 @@ Frontend will run at: `http://localhost:5173`
 
 ---
 
-## 🔍 Sample Screenshot
-
----
 
 ## ⚠️ Important Notes
 
