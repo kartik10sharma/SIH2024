@@ -95,7 +95,7 @@ It will start on: `http://127.0.0.1:8000`
 1. **Navigate to `frontend/`**:
 
 ```bash
-cd frontend
+cd App.jsx
 ```
 
 2. **Install dependencies**:
