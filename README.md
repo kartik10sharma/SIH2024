@@ -36,7 +36,7 @@ A web-based application to forecast **daily, weekly, and monthly power demand** 
 ## 📁 Project Structure
 
 ```
-sih/
+
 ├── node_modules/                 # React dependencies
 ├── public/                       # Static assets for React
 ├── src/
@@ -95,7 +95,7 @@ It will start on: `http://127.0.0.1:8000`
 1. **Navigate to `frontend/`**:
 
 ```bash
-cd frontend
+cd App.jsx
 ```
 
 2. **Install dependencies**:
@@ -127,9 +127,6 @@ Frontend will run at: `http://localhost:5173`
 
 ---
 
-## 🔍 Sample Screenshot
-
----
 
 ## ⚠️ Important Notes
 
